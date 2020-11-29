@@ -11,7 +11,7 @@ Run the examples with
 
     $ lein run
 
-Make sure you have `gnuplot` and `feedgnuplot` installed.
+Make sure you have `gnuplot` and `feedgnuplot` installed. Oh and `perl` since `feedgnuplot` is a perl script.
 
 ## License
 
