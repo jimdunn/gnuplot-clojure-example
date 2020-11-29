@@ -1,7 +1,7 @@
 # gnuplot-clojure-example
 
 Simple examples of using [gnuplot](http://gnuplot.sourceforge.net/) from Clojure to 
-plot "real time" data using [feedgnuplot](https://github.com/dkogan/feedgnuplot). 
+plot "real time" data. Uses the `gnuplot` frontend [feedgnuplot](https://github.com/dkogan/feedgnuplot). 
 See the very nice documentation for `gnuplot` and `feedgnuplot` for explanations of the
 commands or to learn to make fancier plots.
 
